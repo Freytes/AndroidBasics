@@ -1,0 +1,4 @@
+#Sat Jan 20 16:27:54 EST 2018
+base.0=D\:\\Android_Mobile\\00_Project\\JustJava\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\22
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "D:\\Android_Mobile\\00_Project\\JustJava\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\Freytes\\.android\\build-cache\\86f40395f476c4768b8090e36ef1f0afe5b06eca\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "J:\\Android_Mobile\\00_Project\\JustJava\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "J:\\Android_Mobile\\00_Project\\JustJava\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "J:\\Android_Mobile\\00_Project\\JustJava\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "J:\\Android_Mobile\\00_Project\\JustJava\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "D:\\Android_Mobile\\00_Project\\JustJava\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Freytes\\.android\\build-cache\\86f40395f476c4768b8090e36ef1f0afe5b06eca\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "J:\\Android_Mobile\\00_Project\\JustJava\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "J:\\Android_Mobile\\00_Project\\JustJava\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "J:\\Android_Mobile\\00_Project\\JustJava\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "J:\\Android_Mobile\\00_Project\\JustJava\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\Android_Mobile\\00_Project\\JustJava\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Freytes\\.android\\build-cache\\86f40395f476c4768b8090e36ef1f0afe5b06eca\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\Android_Mobile\\00_Project\\JustJava\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\Freytes\\.android\\build-cache\\86f40395f476c4768b8090e36ef1f0afe5b06eca\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "J:\\Android_Mobile\\00_Project\\JustJava\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "J:\\Android_Mobile\\00_Project\\JustJava\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "D:\\Android_Mobile\\00_Project\\JustJava\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\Freytes\\.android\\build-cache\\86f40395f476c4768b8090e36ef1f0afe5b06eca\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "D:\\Android_Mobile\\00_Project\\JustJava\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Freytes\\.android\\build-cache\\86f40395f476c4768b8090e36ef1f0afe5b06eca\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "J:\\Android_Mobile\\00_Project\\JustJava\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "J:\\Android_Mobile\\00_Project\\JustJava\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout-v11\\notification_media_action.xml"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "J:\\Android_Mobile\\00_Project\\JustJava\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "J:\\Android_Mobile\\00_Project\\JustJava\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable-ldrtl-xhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "J:\\Android_Mobile\\00_Project\\JustJava\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "J:\\Android_Mobile\\00_Project\\JustJava\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable-ldrtl-xhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Android_Mobile\\00_Project\\JustJava\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Users\\Freytes\\.android\\build-cache\\86f40395f476c4768b8090e36ef1f0afe5b06eca\\output\\res\\drawable-ldrtl-xhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "J:\\Android_Mobile\\00_Project\\JustJava\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "J:\\Android_Mobile\\00_Project\\JustJava\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable-ldrtl-xhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Android_Mobile\\00_Project\\JustJava\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\Users\\Freytes\\.android\\build-cache\\86f40395f476c4768b8090e36ef1f0afe5b06eca\\output\\res\\drawable-ldrtl-xhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Android_Mobile\\00_Project\\JustJava\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Freytes\\.android\\build-cache\\86f40395f476c4768b8090e36ef1f0afe5b06eca\\output\\res\\drawable-ldrtl-xhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    }
+]

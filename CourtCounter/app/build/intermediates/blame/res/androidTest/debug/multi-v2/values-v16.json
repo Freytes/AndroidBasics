@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "I:\\Android_Mobile\\00_Project\\CourtCounter\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v16\\values-v16.xml",
+            "map": [
+                {
+                    "source": "I:\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\166ce0807b6fc3b982c8ac901b555442\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "I:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\847744199f73ba8fa570044378934d7c\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                }
+            ]
+        }
+    ]
+}

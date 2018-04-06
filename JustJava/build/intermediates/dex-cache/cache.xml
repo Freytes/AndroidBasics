@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Freytes\.android\build-cache\6cb1123cf9c54c4a3e91bbf2e1e2a41db3159081\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Android_Mobile\00_Project\JustJava\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dcf34efa2caada4c5b160a4ce1457b53af8681e2\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android_Mobile\00_Project\JustJava\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Android_Mobile\00_Project\JustJava\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.2.0_834e01c7b29cb26f6fc07b74b2a563c721791be8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="D:\Android_Mobile\00_Project\JustJava\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.2.0_19afd7af854acae57e21587ea46d45f29975cb04\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android_Mobile\00_Project\JustJava\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="D:\Android_Mobile\00_Project\JustJava\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.2.0_3ef9ce274800496443a5cb140ee85ec25c00a447.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Freytes\.android\build-cache\7dc73ce679480a1d4b9bac469daeb2d913487523\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="D:\Android_Mobile\00_Project\JustJava\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b153cd6b7c85f3c527d1cf4b0dd40da159fe1367\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android_Mobile\00_Project\JustJava\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="D:\Android_Mobile\00_Project\JustJava\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_ae86e5478b6aefe6b4dcf0b0b563ce5c3c13da77\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android_Mobile\00_Project\JustJava\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="D:\Android_Mobile\00_Project\JustJava\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.2.0_648c0d66800455819e4759a980421534ab82ae7e.jar" />
+    </item>
+    <item
+        jar="D:\Android_Mobile\00_Project\JustJava\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="D:\Android_Mobile\00_Project\JustJava\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.1.0_89bd8ff1c4ed4d269a973230d1834e86d05013ba.jar" />
+    </item>
+    <item
+        jar="C:\Users\Freytes\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\25.2.0\4a5a82a027706397fff621b22fd6fa796e91d7c5\support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="D:\Android_Mobile\00_Project\JustJava\app\build\intermediates\pre-dexed\debug\support-annotations-25.2.0_d2e0d2c614607cd8f7a872fa2abf079bd7a210eb.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Freytes\.android\build-cache\bc96e39123d2a4a4da9ce128dd893426d1e665a3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="D:\Android_Mobile\00_Project\JustJava\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fa43f1678308e8978d645a362d4b8a4aa611c13f\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android_Mobile\00_Project\JustJava\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="D:\Android_Mobile\00_Project\JustJava\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.2.0_4a395ca6d4e5b24954d54f3f0b85cf6ef7c15ad1.jar" />
+    </item>
+    <item
+        jar="D:\Android_Mobile\00_Project\JustJava\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="D:\Android_Mobile\00_Project\JustJava\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.2.0_99a6246798395769e19aca8d6e436b4441ed1478.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Freytes\.android\build-cache\c654ebae4900c06f28f05ee8fb99dcdfbe185849\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="D:\Android_Mobile\00_Project\JustJava\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ea6c1f81cc3c5ff91c2dc63dc78244e2a98ea89c\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android_Mobile\00_Project\JustJava\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="D:\Android_Mobile\00_Project\JustJava\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.1.0_bc1a02eb0b7b15f5283aea800c65375bd0e14994.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Freytes\.android\build-cache\abfbfb9475e1274a3791020204ca6a35d0fbac44\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="D:\Android_Mobile\00_Project\JustJava\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ed8ee4a4a08701d0db0760ad2955b76d2dd17b66\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Freytes\.android\build-cache\df08a22dbf969b1f748fae7005688ae628524133\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="D:\Android_Mobile\00_Project\JustJava\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_feb975dc097189b2faa44e8ec835ccadc5b717c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Freytes\.android\build-cache\698a2d9f60f7f105897cba948b9a155f16337ddd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="D:\Android_Mobile\00_Project\JustJava\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_39ff8fe28a0e9172d48e4e73940ef7ae92703c47\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android_Mobile\00_Project\JustJava\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="D:\Android_Mobile\00_Project\JustJava\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.2.0_1d12509812216949f97606bae7b357e1c2740477.jar" />
+    </item>
+    <item
+        jar="D:\Android_Mobile\00_Project\JustJava\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="D:\Android_Mobile\00_Project\JustJava\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.2.0_c5636bc7f5af798b061a3f39cf9c7e09442def44.jar" />
+    </item>
+    <item
+        jar="D:\Android_Mobile\00_Project\JustJava\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="D:\Android_Mobile\00_Project\JustJava\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.2.0_e92961d9de7f081c0d94735321322fcb621f9ed5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android_Mobile\00_Project\JustJava\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="4f958e78b9a94b7c3b1fb7774b841871d20d0485">
+        <dex dex="D:\Android_Mobile\00_Project\JustJava\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_f44522ee8837df2063b84f15e26ee39c679915ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Freytes\.android\build-cache\abd5bcbeae6bbce4f21917764ec0ed084fc71cb8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="D:\Android_Mobile\00_Project\JustJava\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6cf1e3f7fc2859144b051171394abd4cbee19035\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Freytes\.android\build-cache\b0380ede7a444062a8c31045501c1790bfc03698\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="D:\Android_Mobile\00_Project\JustJava\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7406d735944ab20ca5d152ff8ca8b7dcbbcf3bc0\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android_Mobile\00_Project\JustJava\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="D:\Android_Mobile\00_Project\JustJava\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.2.0_7e9a9f41646e37743eae60b9c72bb92ecff4d58d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Freytes\.android\build-cache\86f40395f476c4768b8090e36ef1f0afe5b06eca\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="D:\Android_Mobile\00_Project\JustJava\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_813cb3491aa7bef9fba1bde5941040c2d354c5f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Freytes\.android\build-cache\e96d67a6f8b43e1d904fef1c506be5797a520a46\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="D:\Android_Mobile\00_Project\JustJava\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fdf13f7fd1fa336c49d8d22f16385dea2807d3aa\classes.dex" />
+    </item>
+
+</items>

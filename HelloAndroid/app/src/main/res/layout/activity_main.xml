@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="#FFE0B2"
+
+    tools:context="com.example.android.helloandroid.MainActivity">
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/card_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+        android:id="@+id/image_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/udacity" />
+
+    <TextView
+        android:id="@+id/text_view_udacity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:textAppearanceLarge"
+        android:text="Udacity"
+        android:paddingLeft="15dp"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/image_view"
+        android:layout_toEndOf="@+id/image_view"
+        android:layout_marginTop="56dp" />
+
+    <TextView
+        android:id="@+id/text_view_street"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:textAppearanceSmall"
+        android:text="2468 Lattham St"
+        android:autoLink="map"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:layout_below="@+id/text_view_udacity"
+        android:layout_toRightOf="@+id/image_view" />
+
+    <TextView
+        android:id="@+id/text_view_city_state"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:textAppearanceSmall"
+        android:text="Mountain View, CA 94043"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:layout_below="@+id/text_view_street"
+        android:layout_toRightOf="@+id/image_view" />
+
+    <TextView
+        android:id="@+id/text_view_phone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:textAppearanceSmall"
+        android:autoLink="phone"
+        android:text="650-555-5555"
+        android:paddingLeft="5dp"
+        android:layout_below="@+id/text_view_city_state"
+        android:layout_toRightOf="@+id/image_view" />
+</RelativeLayout>
+    </android.support.v7.widget.CardView>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/linear_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_below="@id/card_view"
+        >
+
+        <TextView
+        android:id="@+id/text_view_slogan"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_marginTop="6dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:background="#FFFFFF"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:text="LEARN. THINK. DO."/>
+
+        <TextView
+        android:id="@+id/text_view_website"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_marginTop="6dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:background="#FFFFFF"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:autoLink="web"
+        android:text="www.udacity.com"/>
+    </LinearLayout>

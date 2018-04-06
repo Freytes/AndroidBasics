@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<item name="answer_0" type="id"/>
+	<item name="cb_answer_1_a" type="id"/>
+	<item name="cb_answer_1_b" type="id"/>
+	<item name="cb_answer_1_c" type="id"/>
+    <item name="answer_1a" type="id"/>
+	<item name="answer_1b" type="id"/>
+	<item name="answer_2a" type="id"/>
+	<item name="answer_2b" type="id"/>
+	<item name="answer_3a" type="id"/>
+	<item name="answer_3b" type="id"/>
+	<item name="answer_4a" type="id"/>
+	<item name="answer_4b" type="id"/>
+	<item name="answer_5a" type="id"/>
+	<item name="answer_5b" type="id"/>
+</resources>

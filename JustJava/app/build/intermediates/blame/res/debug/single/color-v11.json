@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "J:\\Android_Mobile\\00_Project\\JustJava\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "J:\\Android_Mobile\\00_Project\\JustJava\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "J:\\Android_Mobile\\00_Project\\JustJava\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "J:\\Android_Mobile\\00_Project\\JustJava\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "D:\\Android_Mobile\\00_Project\\JustJava\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\Freytes\\.android\\build-cache\\86f40395f476c4768b8090e36ef1f0afe5b06eca\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "D:\\Android_Mobile\\00_Project\\JustJava\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\Freytes\\.android\\build-cache\\86f40395f476c4768b8090e36ef1f0afe5b06eca\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

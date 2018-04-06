@@ -1,0 +1,4 @@
+#Sat Mar 31 17:11:42 EDT 2018
+base.0=I\:\\Android_Mobile\\00_Project\\Miwok\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\2
+path.0=classes.dex
+renamed.0=classes.dex

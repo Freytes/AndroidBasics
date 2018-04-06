@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">You Dont Know Jack</string>
+
+    <string name="question_0_textview">What is your name?</string>
+    <string name="enter_something">Enter Name: Once done hit enter</string>
+    
+    <string name="question_1_textview">1. Who is the only member of ZZ Top who doesnt have a beard ?</string>
+    <string name="answer_1_a">Frank Beard</string>
+    <string name="answer_1_b">Billy Gibbons</string>
+
+
+    <string name="question_2_textview">2. Who were the first television couple to be shown in bed together on prime time television ?</string>
+    <string name="answer_2_a">Fred and Wilma Flintstone</string>
+    <string name="answer_2_b">Bill and Clair Huxtable</string>
+
+    <string name="question_3_textview">3.Mike is a butcher. He is 5 10 tall. What does he weigh?</string>
+    <string name="answer_3_a">Meat</string>
+    <string name="answer_3_b">100 LBS</string>
+
+    <string name="question_4_textview">4. Millicent Roberts is the middle and last name of what iconic childrens toy? </string>
+    <string name="answer_4_a">Barbie</string>
+    <string name="answer_4_b">Transformers</string>
+
+    <string name="question_5_textview">5. What singer/actor gave Marilyn Monroe a white poodle named Mafia?</string>
+    <string name="answer_5_a">Tony Bennett</string>
+    <string name="answer_5_b">Frank Sinatra</string>
+	
+	<string name="cb_question_1_textview">6. What number did jackie robinson wear? </string>
+    <string name="cb_answer_1_a">42</string>
+    <string name="cb_answer_1_b">23</string>
+    <string name="cb_answer_1_c">37</string>
+	
+	
+    <string name="submit">Submit</string>
+
+  
+
+</resources>
+
